@@ -1,0 +1,1 @@
+document.getElementsByClassName('h')[0].styles.colour = "red"
